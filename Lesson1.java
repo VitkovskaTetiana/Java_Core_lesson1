@@ -14,7 +14,6 @@ public class Lesson1 {
 		char j = 'j';
 
 		///////////////////////////////////////
-		///////////////////////////////////////
 
 		System.out.println("max value for byte is " + Byte.MAX_VALUE);
 		System.out.println("min value for byte is " + Byte.MIN_VALUE);
